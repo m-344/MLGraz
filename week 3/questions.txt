@@ -1,0 +1,5 @@
+Question about Quiz/What is the most popular genre?:
+I'm getting with df[df.Popularity == df.Popularity.max()].Genre the Genre 
+australian pop
+Which popularity of 100 is higher then the popularity of album rock.
+Or is the query wrong?
